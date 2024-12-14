@@ -1,5 +1,5 @@
-# Latihan-Dicoding
+# Air Quality IN Changping City
 
-cara menjalanlan dashboard
+# cara menjalanlan dashboard
 
 streamlit run airqualiy.py
