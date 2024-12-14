@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
 from babel.numbers import format_currency
 
-airquali_df= pd.read_csv('Air_Qaulity_Changping_Clean.csv')
+airquali_df= pd.read_csv('Dashboard/Air_Qaulity_Changping_Clean.csv')
 
 with st.sidebar:
     col1,col2,col3=st.columns([0.3,3,0.3])
