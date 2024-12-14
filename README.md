@@ -1,4 +1,4 @@
-# Latihan-Dicodin
+# Latihan-Dicoding
 
 cara menjalanlan dashboard
 
